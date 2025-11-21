@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 517fccd4-ac6a-447b-ba6e-2897e95a662c
+  title: Iberia Friday
+  description: My first jupyterbook.  In it I will explore IGN, Spain, spatial data.
+  keywords: [iberia, development, education, remote sensing, lidar, aerial imagery, ogc features, api]
+  authors: [Ian Horn]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
