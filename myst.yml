@@ -13,3 +13,7 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+format: jb-book
+root: index
+chapters:
+ - introduction/index.md
